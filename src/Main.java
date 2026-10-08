@@ -18,7 +18,7 @@ public class Main {
         modReportes.version = "15.0";
         modReportes.terminado = false;
 
-        System.out.println("----Informacion inicial----");
+        System.out.println("----Informacion. inicial----");
         modLogin.mostrarInformacion();
         System.out.println();
         modInventario.mostrarInformacion();
